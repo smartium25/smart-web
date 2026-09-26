@@ -34,7 +34,7 @@
 
         // API CENTRAL DE KN FOUNDATION
         API:
-            "https://programs-sweet-limited-files.trycloudflare.com",
+            "https://visitor-built-cells-disable.trycloudflare.com",
 
         // TOKEN CENTRAL DE KN FOUNDATION
         TOKEN_KEY:
