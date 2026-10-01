@@ -34,7 +34,7 @@
       // URL del servicio Smart-Educational / moderation.py (puerto 8004).
       api:
         (script && script.dataset && script.dataset.api) ||
-        "https://surplus-formula-various-single.trycloudflare.com",
+        "https://analysts-coating-sticks-mixer.trycloudflare.com",
 
       tokenKey: "knfoundation_token",
 
